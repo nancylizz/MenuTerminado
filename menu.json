@@ -1,0 +1,127 @@
+{
+	"Menu":[
+		{
+			"nombre":"Hamburguesa",
+			"descripcion": "Es una hamburguesa simple",
+			"precio":200, 
+			"imagen":"hamburguesa.jpg"
+		},
+		{
+			"nombre":"Boneless",
+			"descripcion":"Llevan salsa al gusto",
+			"precio":160, "imagen": "boneless.jpg"
+		},
+		{
+			"nombre":"Papas", 
+			"descripcion":"Llevan queso, tocino", 
+			"precio":60, 
+			"imagen": "papas.jpg"
+		},
+		{
+			"nombre":"Pizza", 
+			"descripcion":"Hay de peperonni y piña, y con ingredientes extras", 
+			"precio":85, 
+			"imagen": "pizza.jpg"
+		},
+		{
+			"nombre":"Tortas", 
+			"descripcion":"Hay de carne y trompo", 
+			"precio":70, 
+			"imagen": "tortas.jpg"
+		},
+		{
+			"nombre":"Sandwich", 
+			"descripcion":"Llevan jamon, queso, mayonesa, lechuga", 
+			"precio":50, 
+			"imagen": "sandwich.jpg"
+		},
+		{
+			"nombre":"Macarrones", 
+			"descripcion":"Llevan queso", 
+			"precio":40, 
+			"imagen": "macarrones.jpg"
+		},
+		{
+			"nombre":"Chilaquiles rojos", 
+			"descripcion":"Llevan chorizo, queso, crema", 
+			"precio":50, 
+			"imagen": "chilaquiles.jpg"
+		},
+		{
+			"nombre":"Pechuga rellena", 
+			"descripcion":"Esta rellena de jamon, queso amarillo, y empanizadas", 
+			"precio":45, 
+			"imagen": "pechuga.jpg"
+		},
+		{
+			"nombre":"Tostadas", 
+			"descripcion":"Llevan carne molida, lechuga, tomate, crema", 
+			"precio":55, 
+			"imagen": "tostadas.jpg"
+		},
+		{
+			"nombre":"Chiles rellenos", 
+			"descripcion":"Estan rellenos de pollo, queso", 
+			"precio":40, 
+			"imagen": "chiles.jpg"
+		}
+	],
+	"Snacks":[
+		{
+			"nombre":"Hot cakes",
+			"descripcion":"Llevan miel, lechera, fruta al gusto",
+			"precio":70,
+			"imagen": "hotcakes.jpg"
+		},
+		{
+			"nombre":"Mango con chamoy", 
+			"descripcion":"Llevan chamoy, limon, miguelito", 
+			"precio":60, 
+			"imagen": "mango.jpg"
+		},
+		{
+			"nombre":"Pastel", 
+			"descripcion":"Hay variedad de pasteles", 
+			"precio":180, 
+			"imagen": "pastel.jpg"
+		},
+		{
+			"nombre":"Macarrones dulces", 
+			"descripcion":"Llevan mermelada, merengue", 
+			"precio":55, 
+			"imagen": "macarronesdulces.jpg"
+		},
+		{
+			"nombre":"Fresas con chocolate", 
+			"descripcion":"Llevan mucho chocolate", 
+			"precio":70, 
+			"imagen": "fresas.jpg"
+		},
+		{
+			"nombre":"Pay de limon", 
+			"descripcion":"Es un pay helado con galletas y limon", 
+			"precio":45, 
+			"imagen": "pay.jpg"
+		},
+	],
+	"Bebidas":[
+		{
+			"nombre":"Frappe",
+			"descripcion":"Cafe, oreo, cajeta, capuchino",
+			"precio":45, 
+			"imagen": "frappe.jpg"
+		},
+		{
+			"nombre":"Malteada", 
+			"descripcion":"Malteadas de varios sabores", 
+			"precio":75, 
+			"imagen": "malteada.jpg"
+		},
+		{
+			"nombre":"Limonada", 
+			"descripcion":"Llevan limon y hielo", 
+			"precio":45, 
+			"imagen": "limonada.jpg"
+		}
+	]
+}
